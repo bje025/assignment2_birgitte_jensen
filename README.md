@@ -1,0 +1,1 @@
+In Innlevering 2 I have data_problem2.csv and innlevering.ipynb. The report is uploaded on Canvas.
